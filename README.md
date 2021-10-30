@@ -1,5 +1,5 @@
 # CrowdCoin
-##### A decentralized ethereum blockchain based crowdfunding platform inspired by [kickstarter.com](https://www.kickstarter.com) 
+### A decentralized ethereum blockchain based crowdfunding platform inspired by [kickstarter.com](https://www.kickstarter.com) 
 
 The purpose of this project is to increase the credibility of crowdfunding campaigns created by platforms such as kickstarter.com with the use of blockchain. 
 - A user can become a manager of a campaign by creating a campaign and assigning a minimum contribution(in wei) that can be made to that campaign. 
