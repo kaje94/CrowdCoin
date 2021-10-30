@@ -9,6 +9,16 @@ The purpose of this project is to increase the credibility of crowdfunding campa
 
 This approach of using blockchain for crowdfunding will not only increase the transparency but also reduce possible fraudulent activities that can take place in traditional crowdfunding platforms
 
+## Demo URL: https://crowd-coin-kaje94.vercel.app
+> Make sure to have metamask plugin installed with goeril network selected as this project is intended to work with only goeril network
+
+## Prerequisites
+- Google chrome with metamask plugin installed
+- Infura endpoint to deploy contract (https://infura.io)
+- Wallet mnemonic with the first wallet address containing some eth required to deploy the initial contract
+- Metamask plugin should ideally be in the same network that infura url is pointing to
+- Node.js
+- Yarn (preferred) or NPM
 
 ## How to run
 
@@ -55,5 +65,5 @@ yarn start
 ```
 
 ## Future work
-- Add Pagination to request page(`pages/campaigns/[address]/requests/index.js`)
-- Improve UI/UX in all pages
+- Add SSR & Pagination to request page(`pages/campaigns/[address]/requests/index.js`)
+- Improve overall UI/UX
